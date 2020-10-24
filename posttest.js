@@ -81,7 +81,7 @@
           a: "P∝Q",
           b: "P∝1/Q",
           c: "P∝Q<sup>2</sup>",
-          d: "P∝Q<sup>3</sup> "
+          d: "P∝Q<sup>3</sup>"
         },
         correctAnswer: "c"
     },
@@ -139,7 +139,7 @@
         question: "1 Weisbach is equal to  ",
         answers: {
           a: "1 Kilomurg",
-          b: "9.8 Ns2/m8",
+          b: "9.8 Ns<sup>2</sup>/m<sup>8</sup>",
           c: "164 Atkinsons ",
           d: "All of the above"
         },
