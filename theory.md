@@ -14,7 +14,7 @@ According to Atkinson’s equation:
 
 <ul style="text-indent:50px; text-align:justify;list-style-position: inside">
 <li>The pressure ‘P’ required to overcome friction is directly proportional to the area of the rubbing surface.  i.e. P ∝ S <br>
-Where, S = rubbing surface (m<sup>2</sup>)</li>
+Where, S = rubbing surface. (m<sup>2</sup>)</li>
 <li>The pressure ‘P’ required to overcome friction is directly proportional to the square of the velocity of the air.  i.e.  P ∝ V<sup>2</sup><br>
 Where, V = air velocity. (m/sec)</li>
 <li> The pressure ‘P’ required to overcome friction is inversely proportional to the area of cross–section of the airways. i.e.  P ∝ 1 / A. (m<sup>2</sup>)<br>
