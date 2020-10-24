@@ -14,7 +14,7 @@ b. Ns<sup>2</sup>/m<sup>8</sup><br>
 c. Kg/m<sup>3</sup><br>
 <b>d. Both a & c</b><br>
 
-Q 3. Resistance of the mine R varies with area of cross section A in ___________. <br>
+Q 3. Resistance of the mine R varies with area of cross section A in ___________ <br>
 a. R∝A<sup>2</sup><br>
 b. R∝1/A<sup>2</sup><br>
 c. R∝A<sup>3</sup><br>
