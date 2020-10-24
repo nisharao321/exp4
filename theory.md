@@ -23,7 +23,7 @@ Where, A = area of cross section.</li>
 Where, K = coefficient of friction. (kg/m<sup>3</sup>)</li>
 </ul>
 
-<p style="text-indent:50px;text-align:justify;">All the above four laws of mine air friction are combined in the following equation, which is known as Atkinsons equation. Atkinson’s equation is also called SQAURE LAW because the pressure drop is proportional to the square of the volume of air-flow rate.
+<p style="text-indent:50px;text-align:justify;">All the above four laws of mine air friction are combined in the following equation, which is known as Atkinsons equation. Atkinson’s equation is also called SQUARE LAW because the pressure drop is proportional to the square of the volume of air-flow rate.
 </p>
 
 <center>
