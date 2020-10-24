@@ -41,6 +41,6 @@ d. K∝λ<sup>2</sup><br>
 
 Q 7. 1 Weisbach is equal to <br>
 a. 1 Kilomurg <br>
-b. 9.8 Ns<sup>2</sup>/m8 <br>
+b. 9.8 Ns<sup>2</sup>/m<sup>8</sup> <br>
 c. 164 Atkinsons<br>
 <b>d. All of the above</b><br>
