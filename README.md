@@ -5,7 +5,7 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b>  Mining Environmental Engineering Lab
-<b> Experiment| <b> 4.Determination of resistance and K-factor in the ventilation duct
+<b> Experiment| <b> 4.Determination of Resistance and K-factor in the ventilation duct
 
 <h5> About the Experiment : </h5>
 Study of pitot tubes and measurements of air velocity in a ventilation duct with the help of pitot tube and U-tube manometer.
