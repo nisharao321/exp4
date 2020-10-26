@@ -8,7 +8,7 @@
 <p style="text-indent:50px;text-align:justify;">When the air flows through a duct, it's either a ventilation pipe, a tunnel, a shaft with a steelwork or a woodwork in it or a stop. The pressure required to push or pull the air through the duct depends not only on the uniform air friction, but also on the height, duration and shape of the duct, the side wall of the ducts, the existence of the obstruction in the duct, the velocity and density of the air. All of the factors listed above have been incorporated in the flow equation for air at standard density. 
 </p>
 
-## According to Atkinson’s equation:
+#### According to Atkinson’s equation:
 
 <ul style="text-indent:50px; text-align:justify;list-style-position: inside">
 <li>The pressure ‘P’ required to overcome friction is directly proportional to the area of the rubbing surface.  i.e. P ∝ S <br>
