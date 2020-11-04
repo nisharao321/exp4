@@ -5,7 +5,7 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b>  Mining Environmental Engineering Lab
-<b> Experiment| <b> 4.Determination of resistance and K-factor in the ventilation duct
+<b> Experiment| <b> 4.Determination of Resistance and K-factor in the Ventilation Duct
 
 <h5> About the Lab (Objective) : </h5>
 
