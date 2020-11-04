@@ -48,5 +48,7 @@ Sr No | Name | Faculty or Student | Department| Institute | Email id
 3 | Rishitesh Prajapati | Student | Mining Engineering| National Institute of Technology Karnataka, Surathkal |rishi19420000@gmail.com
 4 | Hareesh Kumar Biradar | Student | Mining Engineering | National Institute of Technology Karnataka, Surathkal |biradarhareesh@gmail.com
 5 | Nisha | Staff | | |raonisha46@gmail.com
-6 | Aishwarya Hegde | Student | Applied Mechanics and Hydraulics | National Institute of Technology Karnataka, Surathkal |aishwaryahegde29@gmail.com
-7 | Aishwarya Shetty | Student | Applied Mechanics and Hydraulics | National Institute of Technology Karnataka, Surathkal |aishwarya.shetty1995@gmail.com
+6 | Aishwarya Hegde | Student | Water Resources & Ocean Engineering
+ | National Institute of Technology Karnataka, Surathkal |aishwaryahegde29@gmail.com
+7 | Aishwarya Shetty | Student | Water Resources & Ocean Engineering
+ | National Institute of Technology Karnataka, Surathkal |aishwarya.shetty1995@gmail.com
